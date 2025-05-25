@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+input{
+  border: 1px solid rgb(144, 95, 95);
+  padding: 10px;
+  border-radius: 4px;
+}
